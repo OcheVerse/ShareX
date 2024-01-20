@@ -1,0 +1,23 @@
+{
+  "name": "sharex",
+  "version": "1.0.0",
+  "description": "Backend for ShareX",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start:dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OcheVerse/ShareX-B.git"
+  },
+  "keywords": [
+    "File",
+    "sharing"
+  ],
+  "author": "Alexin and Oche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OcheVerse/ShareX-B/issues"
+  },
+  "homepage": "https://github.com/OcheVerse/ShareX-B#readme"
+}
